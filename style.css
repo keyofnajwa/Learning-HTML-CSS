@@ -1,0 +1,53 @@
+body{
+    background-color:#ffaaca
+}
+
+.propil img{
+    width: 150px;
+    height: 150px;
+    Object-fix: cover;
+    Border-radius: 50%;
+}
+
+.Allin{
+     border-radius:5px;
+     padding:40px;
+     background-color:#ff808a;
+     width:250px;
+     height:400px;
+    
+}
+
+
+
+/*  .Allin img{
+    display:flex;
+    width: 30px;
+    height: 30px;
+    padding:20px;
+    Object-fix: cover;
+    Border-radius: 50%;
+}
+
+
+/*   .Allin Logo{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+    margin-bottom:15px;
+}  */
+    
+
+.Tiktok, .Whatsapp, .instagram {
+    display: flex;         /* INI KUNCINYA BIAR SAMPINGAN */
+    align-items: center;    /* BIAR SEJAJAR TENGAH VERTIKAL */
+    justify-content: center; /* BIAR DI TENGAH KOTAK PINK */
+    gap: 10px;              /* JARAK LOGO KE TEKS */
+    margin-bottom: 10px;
+}
+
+.Tiktok img, .Whatsapp img, .instagram img{
+    width: 30px;
+    height: 30px;
+}
