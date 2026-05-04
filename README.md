@@ -19,4 +19,4 @@ But instead of just "watching" tutorials, I decided to "build" and document ever
 
 ---
 
-> "From 'Hah?' to 'got it!'. One commit at a time."
+> "From 'Hah?' to 'got it!'. One commit at a time".
